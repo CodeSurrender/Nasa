@@ -4,8 +4,7 @@
 
 This app has been developed with the purpose of retrieving Nasa mission data for reading and references.
 The design pattern used on the app is MVVM – model view viewmodel – and written in Swift 5. 
-The app does not use any 3rd party libraries.
-The calling of the details pane can further be optimized to free memory by passing values into the user interface elements instead of saving them in variables.
+The app has Cocoapods installed and RxSwift and RxCocoa libraries added.
 
 **Visuals**
 
@@ -20,7 +19,7 @@ The screenshots above are as listed – from left to right:
   
 **Installation**
 
-To run this app, you will require Xcode. Download the project files and open the Nasa.xcodeproj
+To run this app, you will require Xcode. Clone the repository and open the Nasa.xcworkspace .
 
 **Usage**
 
@@ -36,10 +35,10 @@ This app has been developed thanks to NASA - National Aeronautics and Space Admi
 
 **License**
 
-Content displayed is retrieved from NASA and is only used for evaluation purposes.
+Content displayed is retrieved from NASA and is only used for educational purposes.
 
 **Project status**
 
-This project is complete and unlikely to be updated in future.
+This project is complete. More RxSwift intergration is in development.
 
 
