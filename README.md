@@ -3,7 +3,7 @@
 **Description**
 
 This app has been developed with the purpose of retrieving Nasa mission data for reading and references.
-The design pattern used on the app is MVVM – model view viewmodel – and written in Swift 4.2. 
+The design pattern used on the app is MVVM – model view viewmodel – and written in Swift 5. 
 The app does not use any 3rd party libraries.
 The calling of the details pane can further be optimized to free memory by passing values into the user interface elements instead of saving them in variables.
 
