@@ -41,4 +41,6 @@ Content displayed is retrieved from NASA and is only used for educational purpos
 
 This project is complete. More RxSwift intergration is in development.
 
+**Things to improve**
 
+More RxSwift and Combine usage.
