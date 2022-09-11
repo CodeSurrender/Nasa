@@ -20,7 +20,7 @@ The screenshots above are as listed – from left to right:
   
 **Installation**
 
-To run this app, you will require XCode. Download the project files and open the Nasa.xcodeproj
+To run this app, you will require Xcode. Download the project files and open the Nasa.xcodeproj
 
 **Usage**
 
@@ -32,7 +32,7 @@ You can reach the developer – Collins Kariuki -  of the iOS app here : collins
 
 **Authors and acknowledgment**
 
-This app has been developed thanks to NASA - National Aeronautics and Space Administration – from sharing their API, Apple for providing Xcode and Collins Kariuki for writing Swift code that the app is based on.
+This app has been developed thanks to NASA - National Aeronautics and Space Administration – for sharing their API, Apple for providing Xcode and Collins Kariuki for writing Swift code that the app is based on.
 
 **License**
 
